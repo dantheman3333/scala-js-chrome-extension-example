@@ -13,6 +13,7 @@ cd ..
 cp chrome-content-example/target/scala-2.12/content-script-example-fastopt.js chrome-background-example/target/chrome/unpacked-fast/
 cp chrome-content-example/target/scala-2.12/content-script-example-jsdeps.js chrome-background-example/target/chrome/unpacked-fast/
 
+#copy popup script js files and popup.html
 cp chrome-popup-example/target/scala-2.12/popup-window-example-fastopt.js chrome-background-example/target/chrome/unpacked-fast/
 cp chrome-popup-example/target/scala-2.12/popup-window-example-jsdeps.js chrome-background-example/target/chrome/unpacked-fast/
 cp chrome-popup-example/src/main/resources/html/popup.html chrome-background-example/target/chrome/unpacked-fast/
@@ -23,7 +24,7 @@ manifest=$(<$manifestPath)
 #remove last bracket
 manifest=${manifest::-1}
 
-#add content script
+#add content script and popup window
 manifest=$"$manifest,\"browser_action\": {
     \"default_popup\": \"popup.html\"
   },\"content_scripts\": [
