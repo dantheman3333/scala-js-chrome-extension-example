@@ -1,0 +1,9 @@
+{"manifest_version":2,"name":"Example Extension","version":"0.0.1","icons":{"256":"icons/256/icon.png"},"permissions":["tabs"],"background":{"scripts":["dependencies.js","main.js"]},"browser_action": {
+    "default_popup": "popup.html"
+  },"content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["content-script-example-jsdeps.js", "content-script-example-fastopt.js"]
+    }
+  ]
+}

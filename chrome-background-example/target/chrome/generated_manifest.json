@@ -1,0 +1,1 @@
+{"manifest_version":2,"name":"Example Extension","version":"0.0.1","icons":{"256":"icons/256/icon.png"},"permissions":["tabs"],"background":{"scripts":["dependencies.js","main.js"]}}

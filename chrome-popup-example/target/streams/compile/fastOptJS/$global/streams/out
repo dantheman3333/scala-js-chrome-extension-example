@@ -1,0 +1,16 @@
+[0m[[0minfo[0m] [0mFast optimizing C:\Users\krame\IdeaProjects\chrome-popup-example\target\scala-2.12\popup-window-example-fastopt.js[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 71296 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 145383 us[0m
+[0m[[0mdebug[0m] [0mBasic Linking: 223620 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: true[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 104314 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 1832 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 200279 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 312881 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 22312 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 6701 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 30296 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 291 -- invalidated: 306[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 0 -- invalidated: 760[0m
+[0m[[0mdebug[0m] [0mEmitter (write output): 246360 us[0m
+[0m[[0mdebug[0m] [0mGlobal IR cache stats: reused: 0 -- invalidated: 7 -- trees read: 425[0m

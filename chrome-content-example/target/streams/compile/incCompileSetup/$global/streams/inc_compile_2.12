@@ -1,0 +1,190 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\krame\IdeaProjects\chrome-content-example\target\scala-2.12\classes
+compile options:
+1 items
+0 -> -Xplugin:C:\Users\krame\.ivy2\cache\org.scala-js\scalajs-compiler_2.12.2\jars\scalajs-compiler_2.12.2-0.6.17.jar
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> C:\Users\krame\IdeaProjects\chrome-content-example\target\scala-2.12\classes\Main$.class
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> C:\Users\krame\IdeaProjects\chrome-content-example\target\scala-2.12\classes\Main.class
+binary dependencies:
+5 items
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> C:\Program Files\Java\jre1.8.0_131\lib\rt.jar
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> C:\Users\krame\.ivy2\cache\com.github.japgolly.scalajs-react\core_sjs0.6_2.12\jars\core_sjs0.6_2.12-1.0.1.jar
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> C:\Users\krame\.ivy2\cache\org.scala-js\scalajs-dom_sjs0.6_2.12\jars\scalajs-dom_sjs0.6_2.12-0.9.2.jar
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> C:\Users\krame\.ivy2\cache\org.scala-js\scalajs-library_2.12\jars\scalajs-library_2.12-0.6.17.jar
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> C:\Users\krame\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Main
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Main$
+used names:
+102 items
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> $conforms
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> <
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> <:<
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> <init>
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> <refinement>
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> <repeated>
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> A
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Any
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Aux
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Box
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> BoxUnit
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Builder
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> CT
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Callback
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Children
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Component
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> ComponentSimple
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> ComponentWithRoot
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Container
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> CtorType
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Div
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Document
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> EntryPoint
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Exports
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Function1
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Generic
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> HTMLElement
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> HtmlTagOf
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> HtmlTags
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> JSApp
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> JSExport
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Js
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Main
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Mounted
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> MountedWithRoot
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> NoArgs
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> None
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Nothing
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Nullary
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Object
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> P
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Predef
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Props
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> ReactComponent
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> ReactDOM
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> S
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Scala
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> ScalaComponent
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Singleton
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Step1
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Step2
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Step3
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Step4
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> String
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Summoner
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> TagMod
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> TagOf
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> U
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Unit
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> UnmountedWithRoot
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> Vars
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> VdomElement
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> VdomNode
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> VdomTag
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> X
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> _$3
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> _$4
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> annotation
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> apply
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> body
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> build
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> builder
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> component
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> defaultToNoBackend
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> defaultToNoState
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> div
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> document
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> dom
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> html
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> html_<^
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> internal
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> japgolly
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> js
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> main
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> org
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> p
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> package
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> println
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> qual$1
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> react
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> renderIntoDOM
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> renderStatic
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> scala
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> scalajs
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> summonN
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> toComponentCtor
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> u
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> vdom
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> vdomElementFromTag
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> vdomNodeFromString
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> x$1
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> x$2
+product stamps:
+2 items
+C:\Users\krame\IdeaProjects\chrome-content-example\target\scala-2.12\classes\Main$.class -> lastModified(1498423852439)
+C:\Users\krame\IdeaProjects\chrome-content-example\target\scala-2.12\classes\Main.class -> lastModified(1498423852435)
+source stamps:
+1 items
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> hash(23be2f11cd0300b812749497a295adc4f0ac2711)
+binary stamps:
+5 items
+C:\Program Files\Java\jre1.8.0_131\lib\rt.jar -> lastModified(1496883446885)
+C:\Users\krame\.ivy2\cache\com.github.japgolly.scalajs-react\core_sjs0.6_2.12\jars\core_sjs0.6_2.12-1.0.1.jar -> lastModified(1496964662000)
+C:\Users\krame\.ivy2\cache\org.scala-js\scalajs-dom_sjs0.6_2.12\jars\scalajs-dom_sjs0.6_2.12-0.9.2.jar -> lastModified(1494091755000)
+C:\Users\krame\.ivy2\cache\org.scala-js\scalajs-library_2.12\jars\scalajs-library_2.12-0.6.17.jar -> lastModified(1496446240000)
+C:\Users\krame\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar -> lastModified(1492071552000)
+class names:
+5 items
+C:\Program Files\Java\jre1.8.0_131\lib\rt.jar -> java.lang.Object
+C:\Users\krame\.ivy2\cache\com.github.japgolly.scalajs-react\core_sjs0.6_2.12\jars\core_sjs0.6_2.12-1.0.1.jar -> japgolly.scalajs.react.vdom.HtmlTagOf
+C:\Users\krame\.ivy2\cache\org.scala-js\scalajs-dom_sjs0.6_2.12\jars\scalajs-dom_sjs0.6_2.12-0.9.2.jar -> org.scalajs.dom.package$
+C:\Users\krame\.ivy2\cache\org.scala-js\scalajs-library_2.12\jars\scalajs-library_2.12-0.6.17.jar -> scala.scalajs.js.JSApp
+C:\Users\krame\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar -> scala.Predef$
+internal apis:
+1 items
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwHOYEOQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw9uPFBnQABm5vdGlmeXNxAH4ADE5NRxt0AAR3YWl0c3EAfgAMYEojJnQADSRhc0luc3RhbmNlT2ZzcQB+AAyiAuv3dAAGZXF1YWxzc3EAfgAMi3ctCHQADGFzSW5zdGFuY2VPZnNxAH4ADEgm0ih0AAxzeW5jaHJvbml6ZWRzcQB+AAwS+s2ndAANJGlzSW5zdGFuY2VPZnNxAH4ADMYU1o50AARtYWluc3EAfgAMXSrs83QACW5vdGlmeUFsbHNxAH4ADKiHcll0AAxpc0luc3RhbmNlT2ZzcQB+AAxFQDFhdAACPT1zcQB+AAwx2KWWdAAFY2xvbmVzcQB+AAw3Gl3adAAETWFpbnNxAH4ADCnaold0AAh0b1N0cmluZ3NxAH4ADCjdrE10AAIhPXNxAH4ADPaO9rp0AAhnZXRDbGFzc3NxAH4ADNNLRrB0AAJuZXNxAH4ADP/Rprx0AAJlcXNxAH4ADCaVTOl0ABYkanMkZXhwb3J0ZWQkbWV0aCRtYWluc3EAfgAMdYe8gnQAAiMjc3EAfgAMDOt+n3QACGZpbmFsaXplc3EAfgAM1PBKR3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAndXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAJHNjYWxhLnNjYWxhanMuanMuYW5ub3RhdGlvbi5KU0V4cG9ydHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBbc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AYHNxAH4AW3VxAH4APgAAAABzcQB+AFt1cQB+AD4AAAAAc3EAfgBbdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBfdAAFSlNBcHBzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAARzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3EAfgB4dAAHc2NhbGFqc3NxAH4AeHQAAmpzc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHlzcQB+AGx0AAZPYmplY3RzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AgXNxAH4AbHQAA0FueXNxAH4AcHNxAH4Ac3VxAH4AdgAAAAJzcQB+AHhxAH4Ae3EAfgCBdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVzhBXG+dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATEM6XFVzZXJzXGtyYW1lXElkZWFQcm9qZWN0c1xjaHJvbWUtY29udGVudC1leGFtcGxlXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQjvi8RzQMAuBJ0lJeila3E8KwnEQ==
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\krame\IdeaProjects\chrome-content-example\src\main\scala\Main.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXOEFcb51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATEM6XFVzZXJzXGtyYW1lXElkZWFQcm9qZWN0c1xjaHJvbWUtY29udGVudC1leGFtcGxlXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
